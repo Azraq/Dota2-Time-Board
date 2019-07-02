@@ -3,7 +3,21 @@ A GUI for GSI Based Bot.
 
 ## What does it do?
 
-It plays sounds based on your ingame match time.
+It plays sounds based on your ingame match time. 
+Right now following sounds work:
+- 5 Minute Bounty Runes
+- Healing (minimum 200 HP)(it is random)
+- Midas timer
+
+
+## Todo
+
+- Better GUI (pretty shoddy right now)
+- Set custom sounds for different events
+- Custom soundboard buttons with hotkeys
+- Hotkeys for each sound effect
+- Able to toggle sounds on/off
+- Save settings in a configuration file
 
 ## Credits
 
