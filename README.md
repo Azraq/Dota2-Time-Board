@@ -18,6 +18,7 @@ Right now following sounds work:
 - Hotkeys for each sound effect
 - Able to toggle sounds on/off
 - Save settings in a configuration file
+- Output sounds via microphone so you can play sounds to your teammates ~~and annoy them~~
 
 ## Credits
 
@@ -32,7 +33,8 @@ All the sounds were taken from internal code or [The Playsound Page](http://chat
 For Clients/Consumers:
 
 ```
-Install-Package Dota2GSI
+[x64 Version](https://github.com/Azraq/Dota2-Time-Board/releases/download/Alpha/x64.zip)
+[x32 Version](https://github.com/Azraq/Dota2-Time-Board/releases/download/Alpha/x86.zip)
 
 ```
 
