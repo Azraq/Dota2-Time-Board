@@ -32,11 +32,8 @@ All the sounds were taken from internal code or [The Playsound Page](http://chat
 ## Installation
 For Clients/Consumers:
 
-```
 [x64 Version](https://github.com/Azraq/Dota2-Time-Board/releases/download/Alpha/x64.zip)
 [x32 Version](https://github.com/Azraq/Dota2-Time-Board/releases/download/Alpha/x86.zip)
-
-```
 
 
 For Devs:
